@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<windows.h>
-//BAHADIR ÷ZDEM›R
+//BAHADIR √ñZDEM√ùR
 
 
 void menu(); //creating menu graph
